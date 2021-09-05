@@ -9,24 +9,24 @@
 A bootcamp focused on personal forms of Full Stack Java Jr. developers.
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/marlonsilva21/turma27java.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/marlonsilva21/landing-page-bootstrap.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlonsilva21/turma27java.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlonsilva21/landing-page-bootstrap.svg">
 
-  <a href="https://www.codacy.com/app/marlonsilva21/turma27java?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marlonsilva21/gostack-fullstack-meetapp&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/marlonsilva21/turma27java?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marlonsilva21/landing-page-bootstrapp&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/691b85e51bf240b997ae6ff82ea41590">
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/marlonsilva21/turma27java.svg">
-  <a href="https://github.com/lukemorales/gostack-fullstack-meetapp/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlonsilva21/turma27java.svg">
+  <a href="https://github.com/marlonsilva21/landing-page-bootstrap/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlonsilva21/landing-page-bootstrap.svg">
   </a>
 
-  <a href="https://github.com/marlonsilva21/turma27java/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/marlonsilva21/turma27java.svg">
+  <a href="https://github.com/marlonsilva21/landing-page-bootstrap/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/marlonsilva21/landing-page-bootstrap.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/marlonsilva21/turma27java.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/marlonsilva21/landing-page-bootstrap.svg">
 </p>
 
 <p align="center">
