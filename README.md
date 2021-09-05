@@ -33,6 +33,14 @@ A bootcamp focused on personal forms of Full Stack Java Jr. developers.
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<img align="center" alt="gif" width="100%" height="100%" src="assets/img/gif_landing_page.gif">
+
+<p align="center">
+  <a href="https://marlonpage.netlify.app/" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png">
+  </a>
+</p>
+
 ## :rocket: Technologies
 
 This project was developed at the [Generation Brazil Bootcamp](https://brazil.generation.org/) with the following technologies:
@@ -44,7 +52,7 @@ This project was developed at the [Generation Brazil Bootcamp](https://brazil.ge
 
 ##
 
-<img align="right" alt="Rafa-yoda" width="200" height="200" src="https://i.imgur.com/UNqd81w.gifv">
+
 
 Made with ♥ by Marlon Silva :wave: [Get in touch!](https://www.linkedin.com/in/marlon-silva-43075a184/)
 
